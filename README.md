@@ -6,7 +6,7 @@ Scholar Timeline provides an intuitive, time-based view of a researcher’s publ
 
 Scholar Timeline is interactive!
 
-- **Live Demo**: 
+- **[Live Demo](https://xovee.github.io/scholar-timeline/)**
 - **[Xovee's Scholar Timeline](https://www.xoveexu.com/stats#scholar-timeline)**
 
 
