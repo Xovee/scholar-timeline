@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Scholar Timeline Example</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Scholar Timeline provides an intuitive, time-based view of a researcher’s publications, revealing citation trends and research impact through a clean chronological visualization." />
+    <meta name="author" content="Xovee Xu" />
+
+    <meta property="og:title" content="Scholar Timeline">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://github.com/Xovee/scholar-timeline">
+    <meta property="og:image" content="">
+    <meta property="og:description" content="Scholar Timeline provides an intuitive, time-based view of a researcher’s publications, revealing citation trends and research impact through a clean chronological visualization.">
+
+    <style>
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          Helvetica, Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 20px;
+      }
+
+      main {
+        max-width: 1200px;
+        margin: 40px auto;
+        padding: 30px;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+      }
+
+      h1 {
+        text-align: center;
+        padding-bottom: 10px;
+      }
+
+      p {
+        font-size: 1.1rem;
+      }
+
+      a {
+        color: #0056b3; /* A strong, accessible blue */
+        text-decoration: none;
+        font-weight: 500;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      #scholar-timeline-container {
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        margin-top: 25px; 
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+
+      <h1>Scholar Timeline Example</h1>
+
+      <p>Scholar Timeline provides an intuitive, time-based view of a researcher’s publications, revealing citation trends and research impact through a clean chronological visualization.</p>
+
+      <p>Xovee Xu's <a href="https://www.xoveexu.com/stats#scholar-timeline" target="_blank">Scholar Timeline</a>.</p>
+
+      <p>GitHub Repository: <a href="https://github.com/Xovee/scholar-timeline" target="_blank">https://github.com/Xovee/scholar-timeline</a></p>
+
+      <div id="scholar-timeline-container" style="width: 100%; height: 600px;"></div>
+
+    </main>
+    <script src="echarts.min.js"></script>
+
+    <script src="timeline.js"></script>
+    <script>
+      fetch('/example/xovee_xu_data_2025_11_13.json')
+        .then(function (r) {
+          if (!r.ok) {
+            throw new Error('Failed to load paper.json (' + r.status + ')');
+          }
+          return r.json();
+        })
+        .then(function (papers) {
+          renderScholarTimeline('scholar-timeline-container', papers, {
+            xMin: "2017-01-01",
+            xMax: '2028-12-31',
+            backgroundColor: '#eff6ee',
+            markAreaData: [
+              [
+                {
+                  name: 'PhD Student',
+                  xAxis: '2021-09-01',
+                  itemStyle: { color: '#bbbbbb20' },
+                  label: {
+                    color: 'black',
+                    fontSize: 14
+                  },
+                  tooltip: {
+                    formatter: function () {
+                      return '<b>PhD, Computer Science</b><br>UESTC, Chengdu, China<br>Sept 2021 - Dec 2025';
+                    }
+                  },
+                  emphasis: {
+                    label: {
+                      show: true,
+                      fontWeight: 'bold'
+                    }
+                  }
+                },
+                { xAxis: '2025-12-30' }
+              ]
+            ]
+          });
+        })
+        .catch(function (err) {
+          console.error('Scholar Timeline error:', err);
+        });
+    </script>
+  </body>
+</html>

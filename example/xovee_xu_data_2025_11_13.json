@@ -1,0 +1,716 @@
+[
+    {
+        "title": "A Heterogeneous Dynamical Graph Neural Networks Approach to Quantify Scientific Impact",
+        "authors": [
+            "Fan Zhou",
+            "Xovee Xu",
+            "Ce Li",
+            "Goce Trajcevski",
+            "Ting Zhong",
+            "Kunpeng Zhang"
+        ],
+        "venue": "arXiv",
+        "year": "2020",
+        "citation": "25",
+        "note": "",
+        "date": "2020-03-26"
+    },
+    {
+        "title": "Variational Information Diffusion for Probabilistic Cascades Prediction",
+        "authors": [
+            "Fan Zhou",
+            "Xovee Xu",
+            "Kunpeng Zhang",
+            "Goce Trajcevski",
+            "Ting Zhong"
+        ],
+        "venue": "INFOCOM",
+        "year": "2020",
+        "citation": "54",
+        "note": "INFOCOM 2020 Student Conference Award",
+        "date": "2020-07-06"
+    },
+    {
+        "title": "Continual Information Cascade Learning",
+        "authors": [
+            "Fan Zhou",
+            "Xin Jing",
+            "Xovee Xu",
+            "Ting Zhong",
+            "Goce Trajcevski",
+            "Jin Wu"
+        ],
+        "venue": "GLOBECOM",
+        "year": "2020",
+        "citation": "15",
+        "note": "",
+        "date": "2020-12-07"
+    },
+    {
+        "title": "Meta-Learned User Preference for Topic Participation Prediction",
+        "authors": [
+            "Fan Zhou",
+            "Xiuxiu Qi",
+            "Xovee Xu",
+            "Jiahao Wang",
+            "Ting Zhong",
+            "Goce Trajcevski"
+        ],
+        "venue": "GLOBECOM",
+        "year": "2020",
+        "citation": "2",
+        "note": "",
+        "date": "2020-12-07"
+    },
+    {
+        "title": "Unsupervised User Identity Linkage via Graph Neural Networks",
+        "authors": [
+            "Fan Zhou",
+            "Zijing Wen",
+            "Ting Zhong",
+            "Goce Trajcevski",
+            "Xovee Xu",
+            "Leyuan Liu"
+        ],
+        "venue": "GLOBECOM",
+        "year": "2020",
+        "citation": "12",
+        "note": "",
+        "date": "2020-12-07"
+    },
+    {
+        "title": "A Survey of Information Cascade Analysis: Models, Predictions, and Recent Advances",
+        "authors": [
+            "Fan Zhou",
+            "Xovee Xu",
+            "Goce Trajcevski",
+            "Kunpeng Zhang"
+        ],
+        "venue": "ACM CSUR",
+        "year": "2021",
+        "citation": "258",
+        "note": "",
+        "date": "2021-03-05"
+    },
+    {
+        "title": "Decoupling Representation and Regressor for Long-Tailed Information Cascade Prediction",
+        "authors": [
+            "Fan Zhou",
+            "Liu Yu",
+            "Xovee Xu",
+            "Goce Trajcevski"
+        ],
+        "venue": "SIGIR",
+        "year": "2021",
+        "citation": "21",
+        "note": "",
+        "date": "2021-07-1"
+    },
+    {
+        "title": "Vector-Quantized Autoencoder with Copula for Collaborative Filtering",
+        "authors": [
+            "Guanyu Wang",
+            "Ting Zhong",
+            "Xovee Xu",
+            "Kunpeng Zhang",
+            "Fan Zhou",
+            "Yong Wang"
+        ],
+        "venue": "CIKM",
+        "year": "2021",
+        "citation": "3",
+        "note": "",
+        "date": "2021-11-01"
+    },
+    {
+        "title": "CasFlow: Exploring Hierarchical Structures and Propagation Uncertainty for Cascade Prediction",
+        "authors": [
+            "Xovee Xu",
+            "Fan Zhou",
+            "Kunpeng Zhang",
+            "Siyuan Liu",
+            "Goce Trajcevski"
+        ],
+        "venue": "TKDE",
+        "year": "2021",
+        "citation": "83",
+        "note": "",
+        "date": "2021-11-10"
+    },
+    {
+        "title": "Contrastive Trajectory Learning for Tour Recommendation",
+        "authors": [
+            "Fan Zhou",
+            "Pengyu Wang",
+            "Xovee Xu",
+            "Wenxin Tai",
+            "Goce Trajcevski"
+        ],
+        "venue": "TIST",
+        "year": "2021",
+        "citation": "47",
+        "note": "",
+        "date": "2021-11-29"
+    },
+    {
+        "title": "HGENA: A Hyperbolic Graph Embedding Approach for Network Alignment",
+        "authors": [
+            "Fan Zhou",
+            "Ce Li",
+            "Xovee Xu",
+            "Leyuan Liu",
+            "Goce Trajcevski"
+        ],
+        "venue": "GLOBECOM",
+        "year": "2021",
+        "citation": "6",
+        "note": "",
+        "date": "2021-12-07"
+    },
+    {
+        "title": "Heterogeneous Dynamical Academic Network for Learning Scientific Impact Propagation",
+        "authors": [
+            "Xovee Xu",
+            "Ting Zhong",
+            "Ce Li",
+            "Goce Trajcevski",
+            "Fan Zhou"
+        ],
+        "venue": "KBS",
+        "year": "2021",
+        "citation": "26",
+        "note": "",
+        "date": "2021-12-12"
+    },
+    {
+        "title": "CCGL: Contrastive Cascade Graph Learning",
+        "authors": [
+            "Xovee Xu",
+            "Fan Zhou",
+            "Kunpeng Zhang",
+            "Siyuan Liu"
+        ],
+        "venue": "TKDE",
+        "year": "2022",
+        "citation": "50",
+        "note": "",
+        "date": "2022-02-18"
+    },
+    {
+        "title": "PrEF: Probabilistic Electricity Forecasting via Copula-Augmented State Space Model",
+        "authors": [
+            "Zhiyuan Wang",
+            "Xovee Xu",
+            "Goce Trajcevski",
+            "Kunpeng Zhang",
+            "Ting Zhong",
+            "Fan Zhou"
+        ],
+        "venue": "AAAI",
+        "year": "2022",
+        "citation": "17",
+        "note": "",
+        "date": "2022-02-22"
+    },
+    {
+        "title": "Probabilistic Fine-Grained Urban Flow Inference with Normalizing Flows",
+        "authors": [
+            "Ting Zhong",
+            "Haoyang Yu",
+            "Rongfan Li",
+            "Xovee Xu",
+            "Xucheng Luo",
+            "Fan Zhou"
+        ],
+        "venue": "ICASSP",
+        "year": "2022",
+        "citation": "10",
+        "note": "",
+        "date": "2022-05-23"
+    },
+    {
+        "title": "Transformer-Enhanced Hawkes Process with Decoupling Training for Information Cascade Prediction",
+        "authors": [
+            "Liu Yu",
+            "Xovee Xu",
+            "Goce Trajcevski",
+            "Fan Zhou"
+        ],
+        "venue": "KBS",
+        "year": "2022",
+        "citation": "34",
+        "note": "",
+        "date": "2022-08-23"
+    },
+    {
+        "title": "Probabilistic Electricity Demand Forecasting with Transformer-Guided State Space Model",
+        "authors": [
+            "Yang Cao",
+            "Zhenzhen Dang",
+            "Feng Wu",
+            "Xovee Xu",
+            "Fan Zhou"
+        ],
+        "venue": "AUTEEE",
+        "year": "2022",
+        "citation": "7",
+        "note": "",
+        "date": "2022-11-18"
+    },
+    {
+        "title": "Learning Latent Seasonal-Trend Representations for Time Series Forecasting",
+        "authors": [
+            "Zhiyuan Wang",
+            "Xovee Xu",
+            "Goce Trajcevski",
+            "Weifeng Zhang",
+            "Ting Zhong",
+            "Fan Zhou"
+        ],
+        "venue": "NeurIPS",
+        "year": "2022",
+        "citation": "111",
+        "note": "",
+        "date": "2022-11-28"
+    },
+    {
+        "title": "Overcoming Forgetting in Fine-Grained Urban Flow Inference via Adaptive Knowledge Replay",
+        "authors": [
+            "Haoyang Yu",
+            "Xovee Xu",
+            "Ting Zhong",
+            "Fan Zhou"
+        ],
+        "venue": "AAAI",
+        "year": "2023",
+        "citation": "19",
+        "note": "",
+        "date": "2023-02-07"
+    },
+    {
+        "title": "Counterfactual Graph Learning for Anomaly Detection on Attributed Networks",
+        "authors": [
+            "Chunjing Xiao",
+            "Xovee Xu",
+            "Yue Lei",
+            "Kunpeng Zhang",
+            "Siyuan Liu",
+            "Fan Zhou"
+        ],
+        "venue": "TKDE",
+        "year": "2023",
+        "citation": "55",
+        "note": "",
+        "date": "2023-02-28"
+    },
+    {
+        "title": "Diffusion Probabilistic Modeling for Fine-Grained Urban Traffic Flow Inference with Relaxed Structural Constraint",
+        "authors": [
+            "Xovee Xu",
+            "Yutao Wei",
+            "Pengyu Wang",
+            "Xucheng Luo",
+            "Fan Zhou",
+            "Goce Trajcevski"
+        ],
+        "venue": "ICASSP",
+        "year": "2023",
+        "citation": "10",
+        "note": "",
+        "date": "2023-06-04"
+    },
+    {
+        "title": "Dynamic Transformer ODEs for Large-Scale Reservoir Inflow Forecasting",
+        "authors": [
+            "Xovee Xu",
+            "Zhiyuan Wang",
+            "Fan Zhou",
+            "Ying Huang",
+            "Ting Zhong",
+            "Goce Trajcevski"
+        ],
+        "venue": "KBS",
+        "year": "2023",
+        "citation": "13",
+        "note": ""
+    },
+    {
+        "title": "Learning Spatiotemporal Manifold Representation for Probabilistic Land Deformation Prediction",
+        "authors": [
+            "Xovee Xu",
+            "Ting Zhong",
+            "Fan Zhou",
+            "Rongfan Li",
+            "Goce Trajcevski",
+            "Qinggang Meng"
+        ],
+        "venue": "TCYB",
+        "year": "2023",
+        "citation": "7",
+        "note": "",
+        "date": "2023-06-20"
+    },
+    {
+        "title": "Spatial-Temporal Contrasting for Fine-Grained Urban Flow Inference",
+        "authors": [
+            "Xovee Xu",
+            "Zhiyuan Wang",
+            "Qiang Gao",
+            "Ting Zhong",
+            "Bei Hui",
+            "Fan Zhou",
+            "Goce Trajcevski"
+        ],
+        "venue": "TBDATA",
+        "year": "2023",
+        "citation": "5",
+        "note": "",
+        "date": "2023-09-18"
+    },
+    {
+        "title": "Predicting Human Mobility via Self-Supervised Disentanglement Learning",
+        "authors": [
+            "Qiang Gao",
+            "Jinyu Hong",
+            "Xovee Xu",
+            "Ping Kuang",
+            "Fan Zhou",
+            "Goce Trajcevski"
+        ],
+        "venue": "TKDE",
+        "year": "2023",
+        "citation": "18",
+        "note": "",
+        "date": "2023-09-27"
+    },
+    {
+        "title": "PGSL: A Probabilistic Graph Diffusion Model for Source Localization",
+        "authors": [
+            "Xovee Xu",
+            "Tangjiang Qian",
+            "Zhe Xiao",
+            "Ni Zhang",
+            "Jin Wu",
+            "Fan Zhou"
+        ],
+        "venue": "ESWA",
+        "year": "2023",
+        "citation": "18",
+        "note": "",
+        "date": "2023-10-06"
+    },
+    {
+        "title": "Simplifying Temporal Heterogeneous Network for Continuous-Time Link Prediction",
+        "authors": [
+            "Ce Li",
+            "Rongpei Hong",
+            "Xovee Xu",
+            "Goce Trajcevski",
+            "Fan Zhou"
+        ],
+        "venue": "CIKM",
+        "year": "2023",
+        "citation": "7",
+        "note": "",
+        "date": "2023-10-21"
+    },
+    {
+        "title": "MDCC: A Multimodal Dynamic Dataset for Donation-based Crowdfunding Campaigns",
+        "authors": [
+            "Xovee Xu",
+            "Jiayang Li",
+            "Fan Zhou"
+        ],
+        "venue": "CIKM",
+        "year": "2023",
+        "citation": "3",
+        "note": "",
+        "date": "2023-10-21"
+    },
+    {
+        "title": "Measuring and Classifying IP Usage Scenarios: A Continuous Neural Trees Approach",
+        "authors": [
+            "Zhenhui Li",
+            "Fan Zhou",
+            "Zhiyuan Wang",
+            "Xovee Xu",
+            "Leyuan Liu",
+            "Guangqiang Yin"
+        ],
+        "venue": "Sci Rep",
+        "year": "2024",
+        "citation": "6",
+        "note": "",
+        "date": "2024-03-01"
+    },
+    {
+        "title": "Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection",
+        "authors": [
+            "Chunjing Xiao",
+            "Shikang Pang",
+            "Xovee Xu",
+            "Xuan Li",
+            "Goce Trajcevski",
+            "Fan Zhou"
+        ],
+        "venue": "TCSS",
+        "year": "2024",
+        "citation": "20",
+        "note": "",
+        "date": "2024-06-19"
+    },
+    {
+        "title": "RRE: A Relevance Relation Extraction Framework for Cross-Domain Recommender System at Alipay",
+        "authors": [
+            "Jiayang Gu",
+            "Xovee Xu",
+            "Yulu Tian",
+            "Yurun Hu",
+            "Jiadong Huang",
+            "Wenliang Zhong",
+            "Fan Zhou",
+            "Lianli Gao"
+        ],
+        "venue": "ICME",
+        "year": "2024",
+        "citation": "1",
+        "note": "Best Paper Candidate",
+        "date": "2024-07-15"
+    },
+    {
+        "title": "Retrieval-Augmented Hypergraph for Multimodal Social Media Popularity Prediction",
+        "authors": [
+            "Zhangtao Cheng",
+            "Jienan Zhang",
+            "Xovee Xu",
+            "Goce Trajcevski",
+            "Ting Zhong",
+            "Fan Zhou"
+        ],
+        "venue": "KDD",
+        "year": "2024",
+        "citation": "31",
+        "note": "",
+        "date": "2024-08-25"
+    },
+    {
+        "title": "Exploring the Chameleon Effect of Contextual Dynamics in Temporal Knowledge Graph for Event Prediction",
+        "authors": [
+            "Xin Liu",
+            "Yi He",
+            "Wenxin Tai",
+            "Xovee Xu",
+            "Fan Zhou",
+            "Guangchun Luo"
+        ],
+        "venue": "Tsinghua S&T",
+        "year": "2024",
+        "citation": "8",
+        "note": "",
+        "date": "2024-09-11"
+    },
+    {
+        "title": "Information Cascade Popularity Prediction via Probabilistic Diffusion",
+        "authors": [
+            "Zhangtao Cheng",
+            "Fan Zhou",
+            "Xovee Xu",
+            "Kunpeng Zhang",
+            "Goce Trajcevski",
+            "Ting Zhong",
+            "Philip S. Yu"
+        ],
+        "venue": "TKDE",
+        "year": "2024",
+        "citation": "23",
+        "note": "",
+        "date": "2024-09-19"
+    },
+    {
+        "title": "Overcoming Catastrophic Forgetting in Continual Fine-Grained Urban Flow Inference",
+        "authors": [
+            "Xovee Xu",
+            "Ting Zhong",
+            "Haoyang Yu",
+            "Fan Zhou",
+            "Goce Trajcevski"
+        ],
+        "venue": "TSAS",
+        "year": "2024",
+        "citation": "0",
+        "note": "",
+        "date": "2024-10-23"
+    },
+    {
+        "title": "Denoising Propagation Uncertainty for Information Source Localization",
+        "authors": [
+            "Leyuan Liu",
+            "Zhangtao Cheng",
+            "Xovee Xu",
+            "Fan Zhou"
+        ],
+        "venue": "GLOBECOM",
+        "year": "2024",
+        "citation": "0",
+        "note": "",
+        "date": "2024-12-08"
+    },
+    {
+        "title": "Improving Multimodal Social Media Popularity Prediction via Selective Retrieval Knowledge Augmentation",
+        "authors": [
+            "Xovee Xu",
+            "Yifan Zhang",
+            "Fan Zhou",
+            "Jingkuan Song"
+        ],
+        "venue": "AAAI",
+        "year": "2025",
+        "citation": "4",
+        "note": "",
+        "date": "2025-02-25"
+    },
+    {
+        "title": "Information Diffusion Prediction via Meta-Knowledge Learners",
+        "authors": [
+            "Zhangtao Cheng",
+            "Jienan Zhang",
+            "Xovee Xu",
+            "Wenxin Tai",
+            "Fan Zhou",
+            "Goce Trajcevski",
+            "Ting Zhong"
+        ],
+        "venue": "Ins Sci",
+        "year": "2025",
+        "citation": "2",
+        "note": "",
+        "date": "2025-02-27"
+    },
+    {
+        "title": "Commonality Augmented Disentanglement for Multimodal Crowdfunding Success Prediction",
+        "authors": [
+            "Jiayang Li",
+            "Xovee Xu",
+            "Yili Li",
+            "Ting Zhong",
+            "Kunpeng Zhang",
+            "Fan Zhou"
+        ],
+        "venue": "ICASSP",
+        "year": "2025",
+        "citation": "1",
+        "note": "",
+        "date": "2025-04-06"
+    },
+    {
+        "title": "Facing Anomalies Head-On: Network Traffic Anomaly Detection via Uncertainty-Inspired Inter-Sample Differences",
+        "authors": [
+            "Xinglin Lian",
+            "Chengtai Cao",
+            "Yan Liu",
+            "Xovee Xu",
+            "Yu Zheng",
+            "Fan Zhou"
+        ],
+        "venue": "WWW",
+        "year": "2025",
+        "citation": "3",
+        "note": "",
+        "date": "2025-04-28"
+    },
+    {
+        "title": "Biting Off More Than You Can Detect: Retrieval-Augmented Multimodal Experts for Short Video Hate Detection",
+        "authors": [
+            "Jian Lang",
+            "Rongpei Hong",
+            "Jin Xu",
+            "Yili Li",
+            "Xovee Xu",
+            "Fan Zhou"
+        ],
+        "venue": "WWW",
+        "year": "2025",
+        "citation": "6",
+        "note": "",
+        "date": "2025-04-28"
+    },
+    {
+        "title": "Reconciling Attribute and Structural Anomalies for Improved Graph Anomaly Detection",
+        "authors": [
+            "Chunjing Xiao",
+            "Jiahui Lu",
+            "Xovee Xu",
+            "Fan Zhou",
+            "Tianshu Xie",
+            "Wei Lu",
+            "Lifeng Xu"
+        ],
+        "venue": "TNNLS",
+        "year": "2025",
+        "citation": "1",
+        "note": "",
+        "date": "2025-04-30"
+    },
+    {
+        "title": "Generalizing Across Non-Stationary Series via Learning Dynamic Causal Factors",
+        "authors": [
+            "Weifeng Zhang",
+            "Yan Liu",
+            "Xovee Xu",
+            "Fan Zhou",
+            "Ting Zhong",
+            "Kunpeng Zhang"
+        ],
+        "venue": "Pattern Recognition",
+        "year": "2025",
+        "citation": "0",
+        "note": "",
+        "date": "2025-06-16"
+    },
+    {
+        "title": "Decoding Emotional Silences: Reliable Multimodal Sentiment Analysis with Bipolar Uncertainty",
+        "authors": [
+            "Yutao Wei",
+            "Hongzhu Fu",
+            "Yuxiang Li",
+            "Yichen Xin",
+            "Xovee Xu",
+            "Ting Zhong",
+            "Fan Zhou"
+        ],
+        "venue": "ICME",
+        "year": "2025",
+        "citation": "0",
+        "note": "",
+        "date": "2025-06-30"
+    },
+    {
+        "title": "Hate Speech Detection in Somali-English Code-Switched Texts",
+        "authors": [
+            "Abdisalam Mahamed Badel",
+            "Ting Zhong",
+            "Xovee Xu",
+            "Wenxin Tai",
+            "Fan Zhou"
+        ],
+        "venue": "NLPCC",
+        "year": "2025",
+        "citation": "0",
+        "note": "",
+        "date": "2025-08-07"
+    },
+    {
+        "title": "Learning to Curate Context: Jointly Optimizing Retrieval and Prediction for Multimodal Social Media Popularity",
+        "authors": [
+            "Xovee Xu",
+            "Shuojun Lin",
+            "Fan Zhou",
+            "Jingkuan Song"
+        ],
+        "venue": "AAAI",
+        "year": "2026",
+        "citation": "0",
+        "note": "",
+        "date": "2026-01-20"
+    }
+]

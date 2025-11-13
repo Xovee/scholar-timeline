@@ -1,0 +1,419 @@
+[
+    {
+        "title": "Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models",
+        "authors": [
+            "C Xiao",
+            "Z Gou",
+            "W Tai",
+            "K Zhang",
+            "F Zhou"
+        ],
+        "venue": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and …",
+        "year": "2023",
+        "citation": "96",
+        "note": "",
+        "date": "2023-01-01"
+    },
+    {
+        "title": "Contrastive Trajectory Learning for Tour Recommendation",
+        "authors": [
+            "F Zhou",
+            "P Wang",
+            "X Xu",
+            "W Tai",
+            "G Trajcevski"
+        ],
+        "venue": "ACM Transactions on Intelligent Systems and Technology (TIST) 13 (1), 1-25",
+        "year": "2021",
+        "citation": "47",
+        "note": "",
+        "date": "2021-01-01"
+    },
+    {
+        "title": "Controlled Graph Neural Networks with Denoising Diffusion for Anomaly Detection",
+        "authors": [
+            "X Li",
+            "C Xiao",
+            "Z Feng",
+            "S Pang",
+            "W Tai",
+            "F Zhou"
+        ],
+        "venue": "Expert Systems with Applications, 121533",
+        "year": "2023",
+        "citation": "38",
+        "note": "",
+        "date": "2023-01-01"
+    },
+    {
+        "title": "Revisiting Denoising Diffusion Probabilistic Models for Speech Enhancement: Condition Collapse, Efficiency and Refinement",
+        "authors": [
+            "W Tai",
+            "F Zhou",
+            "G Trajcevski",
+            "T Zhong"
+        ],
+        "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (11), 13627 …",
+        "year": "2023",
+        "citation": "34",
+        "note": "",
+        "date": "2023-01-01"
+    },
+    {
+        "title": "DOSE: Diffusion Dropout with Adaptive Prior for Speech Enhancement",
+        "authors": [
+            "W Tai",
+            "Y Lei",
+            "F Zhou",
+            "G Trajcevski",
+            "T Zhong"
+        ],
+        "venue": "Advances in Neural Information Processing Systems 37",
+        "year": "2023",
+        "citation": "31",
+        "note": "",
+        "date": "2023-01-01"
+    },
+    {
+        "title": "Enhancing Information Diffusion Prediction with Self-Supervised Disentangled User and Cascade Representations",
+        "authors": [
+            "Z Cheng",
+            "W Ye",
+            "L Liu",
+            "W Tai",
+            "F Zhou"
+        ],
+        "venue": "Proceedings of the 32nd ACM International Conference on Information and …",
+        "year": "2023",
+        "citation": "25",
+        "note": "",
+        "date": "2023-01-01"
+    },
+    {
+        "title": "Learning Sentimental and Financial Signals With Normalizing Flows for Stock Movement Prediction",
+        "authors": [
+            "W Tai",
+            "T Zhong",
+            "Y Mo",
+            "F Zhou"
+        ],
+        "venue": "IEEE Signal Processing Letters 29, 414-418",
+        "year": "2021",
+        "citation": "20",
+        "note": "",
+        "date": "2021-01-01"
+    },
+    {
+        "title": "TrustGeo: Uncertainty-Aware Dynamic Graph Learning for Trustworthy IP Geolocation",
+        "authors": [
+            "W Tai",
+            "B Chen",
+            "F Zhou",
+            "T Zhong",
+            "G Trajcevski",
+            "Y Wang",
+            "K Chen"
+        ],
+        "venue": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and …",
+        "year": "2023",
+        "citation": "19",
+        "note": "",
+        "date": "2023-01-01"
+    },
+    {
+        "title": "Towards Trustworthy Rumor Detection with Interpretable Graph Structural Learning",
+        "authors": [
+            "L Liu",
+            "J Chen",
+            "Z Cheng",
+            "W Tai",
+            "F Zhou"
+        ],
+        "venue": "Proceedings of the 32nd ACM International Conference on Information and …",
+        "year": "2023",
+        "citation": "14",
+        "note": "",
+        "date": "2023-01-01"
+    },
+    {
+        "title": "RIPGeo: Robust Street-Level IP Geolocation",
+        "authors": [
+            "W Tai",
+            "B Chen",
+            "T Zhong",
+            "Y Wang",
+            "K Chen",
+            "F Zhou"
+        ],
+        "venue": "2023 24th IEEE International Conference on Mobile Data Management (MDM), 138-147",
+        "year": "2023",
+        "citation": "13",
+        "note": "",
+        "date": "2023-01-01"
+    },
+    {
+        "title": "Multi-scale Informative Perceptual Network for Monaural Speech Enhancement",
+        "authors": [
+            "T Lan",
+            "J Li",
+            "Y Feng",
+            "W Tai",
+            "Y Wang",
+            "C Chen",
+            "J Kang",
+            "Q Liu"
+        ],
+        "venue": "Applied Acoustics 195, 108787",
+        "year": "2022",
+        "citation": "10",
+        "note": "",
+        "date": "2022-01-01"
+    },
+    {
+        "title": "Improving Session-based Recommendation with Contrastive Learning",
+        "authors": [
+            "W Tai",
+            "T Lan",
+            "Z Wu",
+            "P Wang",
+            "Y Wang",
+            "F Zhou"
+        ],
+        "venue": "User Modeling and User-Adapted Interaction 33 (1), 1-42",
+        "year": "2022",
+        "citation": "10",
+        "note": "",
+        "date": "2022-01-01"
+    },
+    {
+        "title": "IDANet: An Information Distillation and Aggregation Network for Speech Enhancement",
+        "authors": [
+            "W Tai",
+            "T Lan",
+            "Q Wang",
+            "Q Liu"
+        ],
+        "venue": "IEEE Signal Processing Letters 28, 1998-2002",
+        "year": "2021",
+        "citation": "10",
+        "note": "",
+        "date": "2021-01-01"
+    },
+    {
+        "title": "Improved Speech Separation with Time-and-Frequency Cross-Domain Feature Selection",
+        "authors": [
+            "T Lan",
+            "Y Qian",
+            "Y Lyu",
+            "R Mokhosi",
+            "W Tai",
+            "Q Liu"
+        ],
+        "venue": "Interspeech, 3525-3529",
+        "year": "2021",
+        "citation": "10",
+        "note": "",
+        "date": "2021-01-01"
+    },
+    {
+        "title": "Exploring the Chameleon Effect of Contextual Dynamics in Temporal Knowledge Graph for Event Prediction",
+        "authors": [
+            "X Liu",
+            "Y He",
+            "W Tai",
+            "X Xu",
+            "F Zhou",
+            "G Luo"
+        ],
+        "venue": "Tsinghua Science and Technology 30 (1), 433-455",
+        "year": "2025",
+        "citation": "8",
+        "note": "",
+        "date": "2025-01-01"
+    },
+    {
+        "title": "Motif-Consistent Counterfactuals with Adversarial Refinement for Graph-Level Anomaly Detection",
+        "authors": [
+            "C Xiao",
+            "S Pang",
+            "W Tai",
+            "Y Huang",
+            "G Trajcevski",
+            "F Zhou"
+        ],
+        "venue": "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and …",
+        "year": "2024",
+        "citation": "8",
+        "note": "",
+        "date": "2024-01-01"
+    },
+    {
+        "title": "Score-based Graph Learning for Urban Flow Prediction",
+        "authors": [
+            "P Wang",
+            "X Luo",
+            "W Tai",
+            "K Zhang",
+            "G Trajcevsky",
+            "F Zhou"
+        ],
+        "venue": "ACM Transactions on Intelligent Systems and Technology 15 (3), 1-25",
+        "year": "2024",
+        "citation": "6",
+        "note": "",
+        "date": "2024-01-01"
+    },
+    {
+        "title": "Somali Information Retrieval Corpus: Bridging the Gap between Query Translation and Dedicated Language Resources",
+        "authors": [
+            "AM Badel",
+            "T Zhong",
+            "W Tai",
+            "F Zhou"
+        ],
+        "venue": "The 2023 Conference on Empirical Methods in Natural Language Processing",
+        "year": "2023",
+        "citation": "4",
+        "note": "",
+        "date": "2023-01-01"
+    },
+    {
+        "title": "Foster Strengths and Circumvent Weaknesses: a Speech Enhancement Framework with Two-branch Collaborative Learning",
+        "authors": [
+            "W Tai",
+            "J Li",
+            "Y Wang",
+            "T Lan",
+            "Q Liu"
+        ],
+        "venue": "arXiv preprint arXiv:2110.05713",
+        "year": "2021",
+        "citation": "3",
+        "note": "",
+        "date": "2021-01-01"
+    },
+    {
+        "title": "Extracting Key Insights from Earnings Call Transcript via Information-Theoretic Contrastive Learning",
+        "authors": [
+            "Y Huang",
+            "W Tai",
+            "F Zhou",
+            "Q Gao",
+            "T Zhong"
+        ],
+        "venue": "Information Processing & Management 62 (3), 103998",
+        "year": "2025",
+        "citation": "2",
+        "note": "",
+        "date": "2025-01-01"
+    },
+    {
+        "title": "Analyzing and Mitigating Repetitions in Trip Recommendation",
+        "authors": [
+            "W Shu",
+            "K Xu",
+            "W Tai",
+            "T Zhong",
+            "Y Wang",
+            "F Zhou"
+        ],
+        "venue": "Proceedings of the 47th International ACM SIGIR Conference on Research and …",
+        "year": "2024",
+        "citation": "2",
+        "note": "",
+        "date": "2024-01-01"
+    },
+    {
+        "title": "Exploring Self-Explainable Street-Level IP Geolocation with Graph Information Bottleneck",
+        "authors": [
+            "K Yang",
+            "W Tai",
+            "Z Li",
+            "T Zhong",
+            "G Yin",
+            "Y Wang",
+            "F Zhou"
+        ],
+        "venue": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …",
+        "year": "2024",
+        "citation": "2",
+        "note": "",
+        "date": "2024-01-01"
+    },
+    {
+        "title": "Redundancy Undermines the Trustworthiness of Self-Interpretable GNNs",
+        "authors": [
+            "W Tai",
+            "T Zhong",
+            "G Trajcevski",
+            "F Zhou"
+        ],
+        "venue": "Forty-second International Conference on Machine Learning",
+        "year": "2025",
+        "citation": "1",
+        "note": "",
+        "date": "2025-01-01"
+    },
+    {
+        "title": "Progressive Skip Connection Improves Consistency of Diffusion-based Speech Enhancement",
+        "authors": [
+            "Y Lei",
+            "X Luo",
+            "W Tai",
+            "F Zhou"
+        ],
+        "venue": "IEEE Signal Processing Letters",
+        "year": "2025",
+        "citation": "1",
+        "note": "",
+        "date": "2025-01-01"
+    },
+    {
+        "title": "Improving Monaural Speech Enhancement with Dynamic Scene Perception Module",
+        "authors": [
+            "T Lan",
+            "J Li",
+            "W Tai",
+            "C Chen",
+            "J Kang",
+            "Q Liu"
+        ],
+        "venue": "2022 IEEE International Conference on Multimedia and Expo (ICME), 1-6",
+        "year": "2022",
+        "citation": "1",
+        "note": "",
+        "date": "2022-01-01"
+    },
+    {
+        "title": "Compose Yourself: Average-Velocity Flow Matching for One-Step Speech Enhancement",
+        "authors": [
+            "G Yang",
+            "Y Lei",
+            "W Tai",
+            "J Wu",
+            "J Chen",
+            "T Zhong",
+            "F Zhou"
+        ],
+        "venue": "arXiv preprint arXiv:2509.15952",
+        "year": "2025",
+        "citation": "0",
+        "note": "",
+        "date": "2025-01-01"
+    },
+    {
+        "title": "DOSE+: A Timestep-Aware Dropout Strategy for Diffusion Models in Speech Enhancement",
+        "authors": [
+            "S Yang",
+            "J Wu",
+            "Y Lei",
+            "W Tai",
+            "F Zhou"
+        ],
+        "venue": "IEEE Signal Processing Letters",
+        "year": "2025",
+        "citation": "0",
+        "note": "",
+        "date": "2025-01-01"
+    }
+]
