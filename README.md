@@ -22,7 +22,7 @@ Scholar Timeline is interactive!
    python ./scripts/scholar_page_to_json.py --html data/google_scholar_profile_page.html --json data/timeline_data.json
    ```
 3. Copy `timeline.js` and `timeline_data.json` to your own website.
-4. Add the HTML snippet shown in [Render the Scholar Timeline]() to display your timeline.
+4. Add the HTML snippet shown in [Render the Scholar Timeline](https://github.com/Xovee/scholar-timeline?tab=readme-ov-file#render-the-scholar-timeline) to display your timeline.
 
 ## Requirements
 
