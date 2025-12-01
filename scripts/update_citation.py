@@ -100,8 +100,22 @@ def update_json_citations(json_path: str | Path, df: pd.DataFrame) -> list[str]:
 
     if changes:
         print("\nCitation changes:")
+
+        sortable: list[tuple[int, int, int, str]] = []
+
         for title, old, new in changes:
-            print(f"-   {title}\n original: {old}\n updated:  {new}")
+            try:
+                old_i = int(old)
+                new_i = int(new)
+                diff = new_i - old_i
+            except ValueError:
+                old_i, new_i, diff = 0, 0, 0
+            sortable.append((diff, old_i, new_i, title))
+
+        sortable.sort(key=lambda x: x[0], reverse=True)
+
+        for diff, old_i, new_i, title in sortable:
+            print(f"[{diff}, {old_i} -> {new_i}] {title}")
     else:
         print("\nNo citation changes.")
 
