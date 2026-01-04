@@ -72,6 +72,9 @@ def update_json_citations(json_path: str | Path, df: pd.DataFrame) -> list[str]:
     missing = []
     changes: list[tuple[str, str, str]] = []
 
+    total_old = 0
+    total_new = 0
+
     for entry in data:
         t = entry.get('title', '')
         old = str(entry.get('citation', '0'))
@@ -86,6 +89,18 @@ def update_json_citations(json_path: str | Path, df: pd.DataFrame) -> list[str]:
 
         if new != old:
             changes.append((t, old, new))
+
+        try:
+            old_i = int(str(old).replace(",", ""))
+        except Exception:
+            old_i = 0
+        try:
+            new_i = int(str(new).replace(",", ""))
+        except Exception:
+            new_i = 0
+        
+        total_old += old_i
+        total_new += new_i
 
     json_path.write_text(json.dumps(data, ensure_ascii=False, indent=4), encoding='utf-8')
 
@@ -115,9 +130,12 @@ def update_json_citations(json_path: str | Path, df: pd.DataFrame) -> list[str]:
         sortable.sort(key=lambda x: x[0], reverse=True)
 
         for diff, old_i, new_i, title in sortable:
-            print(f"[{diff}, {old_i} -> {new_i}] {title}")
+            print(f"{old_i:>6} → {new_i:<6} ({new_i-old_i:+6}) | {title}")
     else:
         print("\nNo citation changes.")
+
+    print("-" * 80)
+    print(f"{total_old:>6} → {total_new:<6} ({total_new-total_old:+6}) | TOTAL (all papers)")
 
     return missing
 
